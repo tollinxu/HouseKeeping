@@ -1,0 +1,7 @@
+D:\mysite\HouseKeeping\HouseKeeping.Configuration\bin\Debug\netstandard1.4\HouseKeeping.Configuration.deps.json
+D:\mysite\HouseKeeping\HouseKeeping.Configuration\bin\Debug\netstandard1.4\HouseKeeping.Configuration.dll
+D:\mysite\HouseKeeping\HouseKeeping.Configuration\bin\Debug\netstandard1.4\HouseKeeping.Configuration.pdb
+D:\mysite\HouseKeeping\HouseKeeping.Configuration\obj\Debug\netstandard1.4\HouseKeeping.Configuration.csprojResolveAssemblyReference.cache
+D:\mysite\HouseKeeping\HouseKeeping.Configuration\obj\Debug\netstandard1.4\HouseKeeping.Configuration.AssemblyInfo.cs
+D:\mysite\HouseKeeping\HouseKeeping.Configuration\obj\Debug\netstandard1.4\HouseKeeping.Configuration.dll
+D:\mysite\HouseKeeping\HouseKeeping.Configuration\obj\Debug\netstandard1.4\HouseKeeping.Configuration.pdb

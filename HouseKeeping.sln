@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WechatWeb", "WechatWeb\WechatWeb.csproj", "{A8077F86-1CB3-4C85-8E74-D144D5B5C3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseKeeping.Configuration", "HouseKeeping.Configuration\HouseKeeping.Configuration.csproj", "{4AC4B283-0808-44DA-8709-F76630D5A8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8077F86-1CB3-4C85-8E74-D144D5B5C3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8077F86-1CB3-4C85-8E74-D144D5B5C3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8077F86-1CB3-4C85-8E74-D144D5B5C3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8077F86-1CB3-4C85-8E74-D144D5B5C3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC4B283-0808-44DA-8709-F76630D5A8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC4B283-0808-44DA-8709-F76630D5A8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC4B283-0808-44DA-8709-F76630D5A8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC4B283-0808-44DA-8709-F76630D5A8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
